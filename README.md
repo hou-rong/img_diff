@@ -29,7 +29,7 @@
     
 ## 程序运行过程
 
-<img src="./img/1-1.png">
+<img src="./img/1-1.jpg">
 <img src="./img/1-2.jpg">
-<img src="./img/1-1.png">
-<img src="./img/1-2.jpg">
+<img src="./img/2-1.png">
+<img src="./img/2-2.jpg">
